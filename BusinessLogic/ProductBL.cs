@@ -1,7 +1,5 @@
 using Microsoft.EntityFrameworkCore;
 using ProductCatalog.Models;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace ProductCatalog.BusinessLogic
 {

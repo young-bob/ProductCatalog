@@ -1,6 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
 using ProductCatalog.BusinessLogic;
-using ProductCatalog.Models;
 
 namespace ProductCatalog.Controllers
 {
